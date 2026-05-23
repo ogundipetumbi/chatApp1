@@ -1,0 +1,42 @@
+[
+  {
+    "messageId": "9782863060",
+    "messageNumber": 1,
+    "recipientNumber": "+27815453887",
+    "content": "hellow how are you",
+    "messageHash": "97:1:HELLOW YOU",
+    "status": "SENT"
+  },
+  {
+    "messageId": "8596092240",
+    "messageNumber": 2,
+    "recipientNumber": "+27646844856",
+    "content": "today is hot",
+    "messageHash": "85:2:TODAY HOT",
+    "status": "STORED"
+  },
+  {
+    "messageId": "4498343763",
+    "messageNumber": 3,
+    "recipientNumber": "+27121245695",
+    "content": "the work is done",
+    "messageHash": "44:3:THE DONE",
+    "status": "SENT"
+  },
+  {
+    "messageId": "3503632780",
+    "messageNumber": 4,
+    "recipientNumber": "+27000987665",
+    "content": "hi",
+    "messageHash": "35:4:HI HI",
+    "status": "SENT"
+  },
+  {
+    "messageId": "2125419779",
+    "messageNumber": 5,
+    "recipientNumber": "+27000987665",
+    "content": "yhoo",
+    "messageHash": "21:5:YHOO YHOO",
+    "status": "STORED"
+  }
+]
