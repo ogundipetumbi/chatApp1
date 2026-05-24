@@ -1,3 +1,6 @@
+package com.mycompany.chatapp1;
+
+
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
@@ -20,7 +23,7 @@ public class MessageTest {
     // --- checkMessageID ---
 
     @Test
-    public void testCheckMessageID_Valid() {
+     public void testCheckMessageID_Valid() {
         assertTrue(message1.checkMessageID());
     }
 
